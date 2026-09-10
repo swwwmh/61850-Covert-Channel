@@ -13,3 +13,5 @@ dec_sv.py: Decoding function of the SV message.
 enc_sv.py: Encoding function of the SV message.
 
 CC4bit.py: Just a test of the conventional LSB method.
+
+![](Simulation environment communication network topology.jpg)
